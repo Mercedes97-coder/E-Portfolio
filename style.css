@@ -230,6 +230,14 @@ nav{
 
 /* PROJECTS */
 
+.project{
+    padding-bottom: 40px;
+}
+
+.project:last-child{
+    padding-bottom: 8px;
+}
+
 .project__img{
     width: 100%;
     transition: all 500ms ease;
